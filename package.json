@@ -1,0 +1,50 @@
+{
+  "name": "customer-support-copilot",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Social-media customer-contact copilot MVP. Synthetic data only. AI deferred to a later phase.",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "dev": "concurrently -k -n api,ui -c blue,green \"npm:dev:server\" \"npm:dev:ui\"",
+    "dev:server": "tsx watch src/server/index.ts",
+    "dev:ui": "vite",
+    "build": "vite build",
+    "start": "tsx src/server/index.ts",
+    "seed": "tsx src/server/data/seed/seed.ts",
+    "lint": "eslint .",
+    "typecheck": "tsc -p tsconfig.ui.json --noEmit && tsc -p tsconfig.server.json --noEmit",
+    "test": "vitest run"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "react-router-dom": "^7.6.0",
+    "zod": "^3.24.1"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.17.0",
+    "@testing-library/jest-dom": "^6.6.0",
+    "@testing-library/react": "^16.2.0",
+    "@testing-library/user-event": "^14.5.2",
+    "@types/express": "^5.0.0",
+    "@types/node": "^22.10.0",
+    "@types/react": "^19.1.0",
+    "@types/react-dom": "^19.1.0",
+    "@vitejs/plugin-react": "^4.3.4",
+    "concurrently": "^9.1.0",
+    "eslint": "^9.17.0",
+    "eslint-plugin-react-hooks": "^5.1.0",
+    "eslint-plugin-react-refresh": "^0.4.18",
+    "globals": "^15.14.0",
+    "jsdom": "^25.0.1",
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.2",
+    "typescript-eslint": "^8.18.0",
+    "vite": "^6.0.7",
+    "vitest": "^3.0.0"
+  }
+}

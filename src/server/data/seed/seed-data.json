@@ -1,0 +1,1377 @@
+{
+  "generatedAt": "deterministic",
+  "context": {
+    "seed": "2654435769",
+    "note": "Deterministic synthetic data. Never replaces real customer data."
+  },
+  "data": {
+    "customers": [
+      {
+        "id": "c-001",
+        "name": "Maya Keller",
+        "handle": "@mayakeller88",
+        "channel": "X",
+        "summary": "Pottery orders and shipping questions from Fernbrook",
+        "bio": "Small-batch ceramicist in Fernbrook. Catches up on X orders between kiln firings.",
+        "location": "Fernbrook",
+        "joinedYear": 2023,
+        "status": "ATTENTION",
+        "tags": [
+          "orders",
+          "shipping"
+        ],
+        "isSynthetic": true
+      },
+      {
+        "id": "c-002",
+        "name": "Dario Nowak",
+        "handle": "@darionowak_",
+        "channel": "INSTAGRAM",
+        "summary": "Menu and allergen questions on INSTAGRAM",
+        "bio": "Runs a family food stall in Northbridge. Weekend recipes + menu updates land here first.",
+        "location": "Northbridge",
+        "joinedYear": 2022,
+        "status": "ACTIVE",
+        "tags": [
+          "food",
+          "menu"
+        ],
+        "isSynthetic": true
+      },
+      {
+        "id": "c-003",
+        "name": "Priya Haddad",
+        "handle": "@priyahaddad_",
+        "channel": "FACEBOOK",
+        "summary": "Tour bookings and itinerary requests",
+        "bio": "Tour guide around Dawson Mills and a camera-first storyteller. Replies best on FACEBOOK.",
+        "location": "Dawson Mills",
+        "joinedYear": 2023,
+        "status": "ACTIVE",
+        "tags": [
+          "bookings",
+          "travel"
+        ],
+        "isSynthetic": true
+      },
+      {
+        "id": "c-004",
+        "name": "Jonas Petrov",
+        "handle": "@jonaspetrov",
+        "channel": "X",
+        "summary": "Custom craft orders with color swatches",
+        "bio": "Handmade goods, one at a time. Ships from Westgrove every Tuesday.",
+        "location": "Westgrove",
+        "joinedYear": 2023,
+        "status": "ACTIVE",
+        "tags": [
+          "orders",
+          "custom"
+        ],
+        "isSynthetic": true
+      },
+      {
+        "id": "c-005",
+        "name": "Lena Castillo",
+        "handle": "@lenacastillo00",
+        "channel": "INSTAGRAM",
+        "summary": "Plant restock notifications and care tips",
+        "bio": "Plant shop open Saturdays in Dawson Mills. Posts about restocks and care guides.",
+        "location": "Dawson Mills",
+        "joinedYear": 2023,
+        "status": "ACTIVE",
+        "tags": [
+          "restock",
+          "care"
+        ],
+        "isSynthetic": true
+      },
+      {
+        "id": "c-006",
+        "name": "Omar Ali",
+        "handle": "@omarali26",
+        "channel": "FACEBOOK",
+        "summary": "Bug reports and feature requests from players",
+        "bio": "Indie game tweaker crashing bugs between Fernbrook meetups.",
+        "location": "Fernbrook",
+        "joinedYear": 2024,
+        "status": "ACTIVE",
+        "tags": [
+          "beta",
+          "bug"
+        ],
+        "isSynthetic": true
+      },
+      {
+        "id": "c-007",
+        "name": "Ivy Moreau",
+        "handle": "@ivymoreau7",
+        "channel": "X",
+        "summary": "Reading-list requests and event signups",
+        "bio": "Community library volunteer. Sends reading lists and event reminders from Silverpine.",
+        "location": "Silverpine",
+        "joinedYear": 2023,
+        "status": "ACTIVE",
+        "tags": [
+          "events",
+          "library"
+        ],
+        "isSynthetic": true
+      },
+      {
+        "id": "c-008",
+        "name": "Tomas Sato",
+        "handle": "@tomassato_21",
+        "channel": "INSTAGRAM",
+        "summary": "Bike tune-up bookings and part orders",
+        "bio": "Neighborhood bike mechanic. Bookings and quick Q&A happen on INSTAGRAM.",
+        "location": "Frostburn",
+        "joinedYear": 2022,
+        "status": "INACTIVE",
+        "tags": [
+          "service",
+          "repair"
+        ],
+        "isSynthetic": true
+      },
+      {
+        "id": "c-009",
+        "name": "Amina Bauer",
+        "handle": "@aminabauer79",
+        "channel": "FACEBOOK",
+        "summary": "Pottery orders and shipping questions from Harborview",
+        "bio": "Small-batch ceramicist in Harborview. Catches up on FACEBOOK orders between kiln firings.",
+        "location": "Harborview",
+        "joinedYear": 2024,
+        "status": "ACTIVE",
+        "tags": [
+          "orders",
+          "shipping"
+        ],
+        "isSynthetic": true
+      },
+      {
+        "id": "c-010",
+        "name": "Felix Ferrari",
+        "handle": "@felixferrarix",
+        "channel": "X",
+        "summary": "Menu and allergen questions on X",
+        "bio": "Runs a family food stall in Old Mill. Weekend recipes + menu updates land here first.",
+        "location": "Old Mill",
+        "joinedYear": 2020,
+        "status": "ACTIVE",
+        "tags": [
+          "food",
+          "menu"
+        ],
+        "isSynthetic": true
+      },
+      {
+        "id": "c-011",
+        "name": "Noor Nakamura",
+        "handle": "@noornakamura",
+        "channel": "INSTAGRAM",
+        "summary": "Tour bookings and itinerary requests",
+        "bio": "Tour guide around Silverpine and a camera-first storyteller. Replies best on INSTAGRAM.",
+        "location": "Silverpine",
+        "joinedYear": 2024,
+        "status": "ACTIVE",
+        "tags": [
+          "bookings",
+          "travel"
+        ],
+        "isSynthetic": true
+      },
+      {
+        "id": "c-012",
+        "name": "Ravi Rojas",
+        "handle": "@ravirojas_21",
+        "channel": "FACEBOOK",
+        "summary": "Custom craft orders with color swatches",
+        "bio": "Handmade goods, one at a time. Ships from Lakewood every Tuesday.",
+        "location": "Lakewood",
+        "joinedYear": 2024,
+        "status": "ATTENTION",
+        "tags": [
+          "orders",
+          "custom"
+        ],
+        "isSynthetic": true
+      },
+      {
+        "id": "c-013",
+        "name": "Elif Ivanov",
+        "handle": "@elifivanov00",
+        "channel": "X",
+        "summary": "Plant restock notifications and care tips",
+        "bio": "Plant shop open Saturdays in Briarcliff. Posts about restocks and care guides.",
+        "location": "Briarcliff",
+        "joinedYear": 2024,
+        "status": "ACTIVE",
+        "tags": [
+          "restock",
+          "care"
+        ],
+        "isSynthetic": true
+      },
+      {
+        "id": "c-014",
+        "name": "Caleb Schmidt",
+        "handle": "@calebschmidt7",
+        "channel": "INSTAGRAM",
+        "summary": "Bug reports and feature requests from players",
+        "bio": "Indie game tweaker crashing bugs between Ashfield meetups.",
+        "location": "Ashfield",
+        "joinedYear": 2021,
+        "status": "ACTIVE",
+        "tags": [
+          "beta",
+          "bug"
+        ],
+        "isSynthetic": true
+      },
+      {
+        "id": "c-015",
+        "name": "Simone Okonkwo",
+        "handle": "@simoneokonkwo00",
+        "channel": "FACEBOOK",
+        "summary": "Reading-list requests and event signups",
+        "bio": "Community library volunteer. Sends reading lists and event reminders from Dawson Mills.",
+        "location": "Dawson Mills",
+        "joinedYear": 2021,
+        "status": "INACTIVE",
+        "tags": [
+          "events",
+          "library"
+        ],
+        "isSynthetic": true
+      },
+      {
+        "id": "c-016",
+        "name": "Kei Diaz",
+        "handle": "@keidiaz_",
+        "channel": "X",
+        "summary": "Bike tune-up bookings and part orders",
+        "bio": "Neighborhood bike mechanic. Bookings and quick Q&A happen on X.",
+        "location": "Westgrove",
+        "joinedYear": 2020,
+        "status": "ACTIVE",
+        "tags": [
+          "service",
+          "repair"
+        ],
+        "isSynthetic": true
+      },
+      {
+        "id": "c-017",
+        "name": "Valentina Weber",
+        "handle": "@valentinawebers",
+        "channel": "INSTAGRAM",
+        "summary": "Pottery orders and shipping questions from Silverpine",
+        "bio": "Small-batch ceramicist in Silverpine. Catches up on INSTAGRAM orders between kiln firings.",
+        "location": "Silverpine",
+        "joinedYear": 2024,
+        "status": "ACTIVE",
+        "tags": [
+          "orders",
+          "shipping"
+        ],
+        "isSynthetic": true
+      },
+      {
+        "id": "c-018",
+        "name": "Marcus Khan",
+        "handle": "@marcuskhan00",
+        "channel": "FACEBOOK",
+        "summary": "Menu and allergen questions on FACEBOOK",
+        "bio": "Runs a family food stall in Briarcliff. Weekend recipes + menu updates land here first.",
+        "location": "Briarcliff",
+        "joinedYear": 2021,
+        "status": "ACTIVE",
+        "tags": [
+          "food",
+          "menu"
+        ],
+        "isSynthetic": true
+      },
+      {
+        "id": "c-019",
+        "name": "Ingrid Lin",
+        "handle": "@ingridlin7",
+        "channel": "X",
+        "summary": "Tour bookings and itinerary requests",
+        "bio": "Tour guide around Lakewood and a camera-first storyteller. Replies best on X.",
+        "location": "Lakewood",
+        "joinedYear": 2020,
+        "status": "ACTIVE",
+        "tags": [
+          "bookings",
+          "travel"
+        ],
+        "isSynthetic": true
+      },
+      {
+        "id": "c-020",
+        "name": "Pedro Silva",
+        "handle": "@pedrosilva_21",
+        "channel": "INSTAGRAM",
+        "summary": "Custom craft orders with color swatches",
+        "bio": "Handmade goods, one at a time. Ships from Westgrove every Tuesday.",
+        "location": "Westgrove",
+        "joinedYear": 2021,
+        "status": "ACTIVE",
+        "tags": [
+          "orders",
+          "custom"
+        ],
+        "isSynthetic": true
+      },
+      {
+        "id": "c-021",
+        "name": "Zara Johansson",
+        "handle": "@zarajohansson_21",
+        "channel": "FACEBOOK",
+        "summary": "Plant restock notifications and care tips",
+        "bio": "Plant shop open Saturdays in Northbridge. Posts about restocks and care guides.",
+        "location": "Northbridge",
+        "joinedYear": 2020,
+        "status": "ACTIVE",
+        "tags": [
+          "restock",
+          "care"
+        ],
+        "isSynthetic": true
+      },
+      {
+        "id": "c-022",
+        "name": "Ilya Novak",
+        "handle": "@ilyanovak_",
+        "channel": "X",
+        "summary": "Bug reports and feature requests from players",
+        "bio": "Indie game tweaker crashing bugs between Lakewood meetups.",
+        "location": "Lakewood",
+        "joinedYear": 2023,
+        "status": "INACTIVE",
+        "tags": [
+          "beta",
+          "bug"
+        ],
+        "isSynthetic": true
+      },
+      {
+        "id": "c-023",
+        "name": "Sophie Chen",
+        "handle": "@sophiechen79",
+        "channel": "INSTAGRAM",
+        "summary": "Reading-list requests and event signups",
+        "bio": "Community library volunteer. Sends reading lists and event reminders from Maple Ridge.",
+        "location": "Maple Ridge",
+        "joinedYear": 2021,
+        "status": "ATTENTION",
+        "tags": [
+          "events",
+          "library"
+        ],
+        "isSynthetic": true
+      },
+      {
+        "id": "c-024",
+        "name": "Andre Ahmed",
+        "handle": "@andreahmed_21",
+        "channel": "FACEBOOK",
+        "summary": "Bike tune-up bookings and part orders",
+        "bio": "Neighborhood bike mechanic. Bookings and quick Q&A happen on FACEBOOK.",
+        "location": "Fernbrook",
+        "joinedYear": 2024,
+        "status": "ACTIVE",
+        "tags": [
+          "service",
+          "repair"
+        ],
+        "isSynthetic": true
+      }
+    ],
+    "activitiesByCustomer": {
+      "c-001": [
+        {
+          "id": "a-0001",
+          "kind": "DM",
+          "summary": "Asked about shipping times via X",
+          "crmNote": "Customer asked about order delivery timing on X. No order reference provided yet; follow up for order reference.",
+          "suggestedResponse": "Hi! Happy to check shipping times — can you DM us your order number?",
+          "channel": "X",
+          "direction": "OUTBOUND",
+          "loggedAt": "2026-09-05T04:39:02.501Z",
+          "approvedBy": "Demo Agent",
+          "isSynthetic": true
+        },
+        {
+          "id": "a-0003",
+          "kind": "COMMENT",
+          "summary": "Asked about custom order options and pricing",
+          "crmNote": "Customer interested in a custom variant; pricing and timeline sent. Track preference; no commitment yet.",
+          "suggestedResponse": "Custom options are available! What size and color did you have in mind? We can send a quote today.",
+          "channel": "FACEBOOK",
+          "direction": "OUTBOUND",
+          "loggedAt": "2026-08-10T14:27:54.663Z",
+          "approvedBy": "Demo Agent",
+          "isSynthetic": true
+        },
+        {
+          "id": "a-0002",
+          "kind": "TICKET",
+          "summary": "Reported missing item from a recent order",
+          "crmNote": "Customer raised a missing-item report. Sought an order reference to verify fulfillment; mark for verification and possible reship.",
+          "suggestedResponse": "Sorry about that! Please share your order number so we can verify and get the item out to you.",
+          "channel": "FACEBOOK",
+          "direction": "OUTBOUND",
+          "loggedAt": "2026-06-21T12:30:20.866Z",
+          "approvedBy": "Demo Agent",
+          "isSynthetic": true
+        }
+      ],
+      "c-002": [
+        {
+          "id": "a-0005",
+          "kind": "ESCALATED",
+          "summary": "Billing question escalated after a first-response gap",
+          "crmNote": "First response was delayed; issue escalated to team lead for callback. Flagged as a follow-up item.",
+          "suggestedResponse": "Thank you for your patience — this has been escalated and someone will reach out shortly.",
+          "channel": "FACEBOOK",
+          "direction": "INBOUND",
+          "loggedAt": "2026-09-07T00:52:05.272Z",
+          "approvedBy": "Demo Agent",
+          "isSynthetic": true
+        },
+        {
+          "id": "a-0004",
+          "kind": "TICKET",
+          "summary": "Billing question escalated after a first-response gap",
+          "crmNote": "First response was delayed; issue escalated to team lead for callback. Flagged as a follow-up item.",
+          "suggestedResponse": "Thank you for your patience — this has been escalated and someone will reach out shortly.",
+          "channel": "INSTAGRAM",
+          "direction": "OUTBOUND",
+          "loggedAt": "2026-08-25T14:06:45.682Z",
+          "approvedBy": "Demo Agent",
+          "isSynthetic": true
+        },
+        {
+          "id": "a-0007",
+          "kind": "TICKET",
+          "summary": "Reported missing item from a recent order",
+          "crmNote": "Customer raised a missing-item report. Sought an order reference to verify fulfillment; mark for verification and possible reship.",
+          "suggestedResponse": "Sorry about that! Please share your order number so we can verify and get the item out to you.",
+          "channel": "X",
+          "direction": "OUTBOUND",
+          "loggedAt": "2026-08-11T20:24:54.586Z",
+          "approvedBy": "Demo Agent",
+          "isSynthetic": true
+        },
+        {
+          "id": "a-0006",
+          "kind": "DM",
+          "summary": "Asked about shipping times via X",
+          "crmNote": "Customer asked about order delivery timing on X. No order reference provided yet; follow up for order reference.",
+          "suggestedResponse": "Hi! Happy to check shipping times — can you DM us your order number?",
+          "channel": "X",
+          "direction": "INBOUND",
+          "loggedAt": "2026-07-27T06:46:37.981Z",
+          "approvedBy": "Demo Agent",
+          "isSynthetic": true
+        },
+        {
+          "id": "a-0008",
+          "kind": "ESCALATED",
+          "summary": "Billing question escalated after a first-response gap",
+          "crmNote": "First response was delayed; issue escalated to team lead for callback. Flagged as a follow-up item.",
+          "suggestedResponse": "Thank you for your patience — this has been escalated and someone will reach out shortly.",
+          "channel": "FACEBOOK",
+          "direction": "INBOUND",
+          "loggedAt": "2026-07-08T05:22:52.285Z",
+          "approvedBy": "Demo Agent",
+          "isSynthetic": true
+        }
+      ],
+      "c-003": [
+        {
+          "id": "a-0011",
+          "kind": "DM",
+          "summary": "Asked about shipping times via FACEBOOK",
+          "crmNote": "Customer asked about order delivery timing on FACEBOOK. No order reference provided yet; follow up for order reference.",
+          "suggestedResponse": "Hi! We can pull that up right away — could you send your order number?",
+          "channel": "FACEBOOK",
+          "direction": "INBOUND",
+          "loggedAt": "2026-09-12T19:46:21.198Z",
+          "approvedBy": "Demo Agent",
+          "isSynthetic": true
+        },
+        {
+          "id": "a-0013",
+          "kind": "POST",
+          "summary": "Shared feedback about packaging quality",
+          "crmNote": "Customer noted packaging felt flimsy on arrival. No damage reported. Logged for ops review; monitor for repeat complaints.",
+          "suggestedResponse": "Thanks for the feedback — we pass it straight to the packing team. If anything arrived damaged, let us know and we will sort it.",
+          "channel": "FACEBOOK",
+          "direction": "INBOUND",
+          "loggedAt": "2026-09-04T01:58:07.356Z",
+          "approvedBy": "Demo Agent",
+          "isSynthetic": true
+        },
+        {
+          "id": "a-0009",
+          "kind": "COMMENT",
+          "summary": "Shared feedback about packaging quality",
+          "crmNote": "Customer noted packaging felt flimsy on arrival. No damage reported. Logged for ops review; monitor for repeat complaints.",
+          "suggestedResponse": "Thanks for the feedback — we pass it straight to the packing team. If anything arrived damaged, let us know and we will sort it.",
+          "channel": "X",
+          "direction": "OUTBOUND",
+          "loggedAt": "2026-08-27T20:20:36.561Z",
+          "approvedBy": "Demo Agent",
+          "isSynthetic": true
+        },
+        {
+          "id": "a-0012",
+          "kind": "COMMENT",
+          "summary": "Shared feedback about packaging quality",
+          "crmNote": "Customer noted packaging felt flimsy on arrival. No damage reported. Logged for ops review; monitor for repeat complaints.",
+          "suggestedResponse": "Thanks for the feedback — we pass it straight to the packing team. If anything arrived damaged, let us know and we will sort it.",
+          "channel": "INSTAGRAM",
+          "direction": "OUTBOUND",
+          "loggedAt": "2026-07-23T08:38:33.449Z",
+          "approvedBy": "Demo Agent",
+          "isSynthetic": true
+        },
+        {
+          "id": "a-0010",
+          "kind": "RESOLVED",
+          "summary": "Delivery address updated before dispatch",
+          "crmNote": "Address corrected before shipment; dispatch confirmed to the new address. Case closed.",
+          "suggestedResponse": "All set — we updated the address before dispatch. You will get tracking once it ships.",
+          "channel": "INSTAGRAM",
+          "direction": "INBOUND",
+          "loggedAt": "2026-07-01T23:41:15.127Z",
+          "approvedBy": "Demo Agent",
+          "isSynthetic": true
+        }
+      ],
+      "c-004": [
+        {
+          "id": "a-0014",
+          "kind": "COMMENT",
+          "summary": "Asked about shipping times via X",
+          "crmNote": "Customer asked about order delivery timing on X. No order reference provided yet; follow up for order reference.",
+          "suggestedResponse": "Hi! Happy to check shipping times — can you DM us your order number?",
+          "channel": "X",
+          "direction": "INBOUND",
+          "loggedAt": "2026-07-16T09:19:43.531Z",
+          "approvedBy": "Demo Agent",
+          "isSynthetic": true
+        },
+        {
+          "id": "a-0015",
+          "kind": "ESCALATED",
+          "summary": "Billing question escalated after a first-response gap",
+          "crmNote": "First response was delayed; issue escalated to team lead for callback. Flagged as a follow-up item.",
+          "suggestedResponse": "Thank you for your patience — this has been escalated and someone will reach out shortly.",
+          "channel": "X",
+          "direction": "INBOUND",
+          "loggedAt": "2026-06-22T14:10:03.669Z",
+          "approvedBy": "Demo Agent",
+          "isSynthetic": true
+        }
+      ],
+      "c-005": [
+        {
+          "id": "a-0016",
+          "kind": "DM",
+          "summary": "Asked about custom order options and pricing",
+          "crmNote": "Customer interested in a custom variant; pricing and timeline sent. Track preference; no commitment yet.",
+          "suggestedResponse": "Custom options are available! What size and color did you have in mind? We can send a quote today.",
+          "channel": "INSTAGRAM",
+          "direction": "INBOUND",
+          "loggedAt": "2026-09-19T16:33:05.068Z",
+          "approvedBy": "Demo Agent",
+          "isSynthetic": true
+        },
+        {
+          "id": "a-0017",
+          "kind": "POST",
+          "summary": "Shared feedback about packaging quality",
+          "crmNote": "Customer noted packaging felt flimsy on arrival. No damage reported. Logged for ops review; monitor for repeat complaints.",
+          "suggestedResponse": "Thanks for the feedback — we pass it straight to the packing team. If anything arrived damaged, let us know and we will sort it.",
+          "channel": "INSTAGRAM",
+          "direction": "OUTBOUND",
+          "loggedAt": "2026-06-16T06:15:33.338Z",
+          "approvedBy": "Demo Agent",
+          "isSynthetic": true
+        }
+      ],
+      "c-006": [
+        {
+          "id": "a-0018",
+          "kind": "DM",
+          "summary": "Reported missing item from a recent order",
+          "crmNote": "Customer raised a missing-item report. Sought an order reference to verify fulfillment; mark for verification and possible reship.",
+          "suggestedResponse": "Sorry about that! Please share your order number so we can verify and get the item out to you.",
+          "channel": "X",
+          "direction": "OUTBOUND",
+          "loggedAt": "2026-09-21T07:43:02.693Z",
+          "approvedBy": "Demo Agent",
+          "isSynthetic": true
+        },
+        {
+          "id": "a-0019",
+          "kind": "RESOLVED",
+          "summary": "Delivery address updated before dispatch",
+          "crmNote": "Address corrected before shipment; dispatch confirmed to the new address. Case closed.",
+          "suggestedResponse": "All set — we updated the address before dispatch. You will get tracking once it ships.",
+          "channel": "FACEBOOK",
+          "direction": "INBOUND",
+          "loggedAt": "2026-08-29T07:09:55.408Z",
+          "approvedBy": "Demo Agent",
+          "isSynthetic": true
+        }
+      ],
+      "c-007": [
+        {
+          "id": "a-0020",
+          "kind": "DM",
+          "summary": "Delivery address updated before dispatch",
+          "crmNote": "Address corrected before shipment; dispatch confirmed to the new address. Case closed.",
+          "suggestedResponse": "All set — we updated the address before dispatch. You will get tracking once it ships.",
+          "channel": "FACEBOOK",
+          "direction": "INBOUND",
+          "loggedAt": "2026-07-30T12:17:27.856Z",
+          "approvedBy": "Demo Agent",
+          "isSynthetic": true
+        },
+        {
+          "id": "a-0021",
+          "kind": "TICKET",
+          "summary": "Reported missing item from a recent order",
+          "crmNote": "Customer raised a missing-item report. Sought an order reference to verify fulfillment; mark for verification and possible reship.",
+          "suggestedResponse": "Sorry about that! Please share your order number so we can verify and get the item out to you.",
+          "channel": "X",
+          "direction": "OUTBOUND",
+          "loggedAt": "2026-07-07T12:15:59.755Z",
+          "approvedBy": "Demo Agent",
+          "isSynthetic": true
+        }
+      ],
+      "c-008": [
+        {
+          "id": "a-0023",
+          "kind": "DM",
+          "summary": "Asked about shipping times via X",
+          "crmNote": "Customer asked about order delivery timing on X. No order reference provided yet; follow up for order reference.",
+          "suggestedResponse": "Hi! Happy to check shipping times — can you DM us your order number?",
+          "channel": "X",
+          "direction": "INBOUND",
+          "loggedAt": "2026-09-04T00:42:40.394Z",
+          "approvedBy": "Demo Agent",
+          "isSynthetic": true
+        },
+        {
+          "id": "a-0022",
+          "kind": "COMMENT",
+          "summary": "Asked about shipping times via INSTAGRAM",
+          "crmNote": "Customer asked about order delivery timing on INSTAGRAM. No order reference provided yet; follow up for order reference.",
+          "suggestedResponse": "Hi! We can pull that up right away — could you send your order number?",
+          "channel": "INSTAGRAM",
+          "direction": "INBOUND",
+          "loggedAt": "2026-08-01T18:32:24.730Z",
+          "approvedBy": "Demo Agent",
+          "isSynthetic": true
+        }
+      ],
+      "c-009": [
+        {
+          "id": "a-0024",
+          "kind": "DM",
+          "summary": "Asked about custom order options and pricing",
+          "crmNote": "Customer interested in a custom variant; pricing and timeline sent. Track preference; no commitment yet.",
+          "suggestedResponse": "Custom options are available! What size and color did you have in mind? We can send a quote today.",
+          "channel": "INSTAGRAM",
+          "direction": "OUTBOUND",
+          "loggedAt": "2026-08-15T01:22:35.830Z",
+          "approvedBy": "Demo Agent",
+          "isSynthetic": true
+        },
+        {
+          "id": "a-0025",
+          "kind": "DM",
+          "summary": "Delivery address updated before dispatch",
+          "crmNote": "Address corrected before shipment; dispatch confirmed to the new address. Case closed.",
+          "suggestedResponse": "All set — we updated the address before dispatch. You will get tracking once it ships.",
+          "channel": "FACEBOOK",
+          "direction": "OUTBOUND",
+          "loggedAt": "2026-07-10T00:51:36.340Z",
+          "approvedBy": "Demo Agent",
+          "isSynthetic": true
+        }
+      ],
+      "c-010": [
+        {
+          "id": "a-0026",
+          "kind": "ESCALATED",
+          "summary": "Billing question escalated after a first-response gap",
+          "crmNote": "First response was delayed; issue escalated to team lead for callback. Flagged as a follow-up item.",
+          "suggestedResponse": "Thank you for your patience — this has been escalated and someone will reach out shortly.",
+          "channel": "X",
+          "direction": "OUTBOUND",
+          "loggedAt": "2026-07-21T00:12:10.343Z",
+          "approvedBy": "Demo Agent",
+          "isSynthetic": true
+        },
+        {
+          "id": "a-0027",
+          "kind": "ESCALATED",
+          "summary": "Billing question escalated after a first-response gap",
+          "crmNote": "First response was delayed; issue escalated to team lead for callback. Flagged as a follow-up item.",
+          "suggestedResponse": "Thank you for your patience — this has been escalated and someone will reach out shortly.",
+          "channel": "X",
+          "direction": "OUTBOUND",
+          "loggedAt": "2026-07-08T03:14:49.914Z",
+          "approvedBy": "Demo Agent",
+          "isSynthetic": true
+        }
+      ],
+      "c-011": [
+        {
+          "id": "a-0028",
+          "kind": "DM",
+          "summary": "Reported missing item from a recent order",
+          "crmNote": "Customer raised a missing-item report. Sought an order reference to verify fulfillment; mark for verification and possible reship.",
+          "suggestedResponse": "Sorry about that! Please share your order number so we can verify and get the item out to you.",
+          "channel": "X",
+          "direction": "OUTBOUND",
+          "loggedAt": "2026-08-01T20:47:43.262Z",
+          "approvedBy": "Demo Agent",
+          "isSynthetic": true
+        },
+        {
+          "id": "a-0029",
+          "kind": "POST",
+          "summary": "Shared feedback about packaging quality",
+          "crmNote": "Customer noted packaging felt flimsy on arrival. No damage reported. Logged for ops review; monitor for repeat complaints.",
+          "suggestedResponse": "Thanks for the feedback — we pass it straight to the packing team. If anything arrived damaged, let us know and we will sort it.",
+          "channel": "INSTAGRAM",
+          "direction": "INBOUND",
+          "loggedAt": "2026-07-05T15:46:40.568Z",
+          "approvedBy": "Demo Agent",
+          "isSynthetic": true
+        },
+        {
+          "id": "a-0030",
+          "kind": "COMMENT",
+          "summary": "Asked about custom order options and pricing",
+          "crmNote": "Customer interested in a custom variant; pricing and timeline sent. Track preference; no commitment yet.",
+          "suggestedResponse": "Custom options are available! What size and color did you have in mind? We can send a quote today.",
+          "channel": "INSTAGRAM",
+          "direction": "OUTBOUND",
+          "loggedAt": "2026-06-13T22:25:43.370Z",
+          "approvedBy": "Demo Agent",
+          "isSynthetic": true
+        }
+      ],
+      "c-012": [
+        {
+          "id": "a-0031",
+          "kind": "DM",
+          "summary": "Asked about shipping times via FACEBOOK",
+          "crmNote": "Customer asked about order delivery timing on FACEBOOK. No order reference provided yet; follow up for order reference.",
+          "suggestedResponse": "Hi! We can pull that up right away — could you send your order number?",
+          "channel": "FACEBOOK",
+          "direction": "OUTBOUND",
+          "loggedAt": "2026-08-25T13:07:42.584Z",
+          "approvedBy": "Demo Agent",
+          "isSynthetic": true
+        },
+        {
+          "id": "a-0033",
+          "kind": "DM",
+          "summary": "Delivery address updated before dispatch",
+          "crmNote": "Address corrected before shipment; dispatch confirmed to the new address. Case closed.",
+          "suggestedResponse": "All set — we updated the address before dispatch. You will get tracking once it ships.",
+          "channel": "FACEBOOK",
+          "direction": "INBOUND",
+          "loggedAt": "2026-08-19T15:07:33.400Z",
+          "approvedBy": "Demo Agent",
+          "isSynthetic": true
+        },
+        {
+          "id": "a-0034",
+          "kind": "DM",
+          "summary": "Delivery address updated before dispatch",
+          "crmNote": "Address corrected before shipment; dispatch confirmed to the new address. Case closed.",
+          "suggestedResponse": "All set — we updated the address before dispatch. You will get tracking once it ships.",
+          "channel": "FACEBOOK",
+          "direction": "INBOUND",
+          "loggedAt": "2026-08-10T13:54:36.739Z",
+          "approvedBy": "Demo Agent",
+          "isSynthetic": true
+        },
+        {
+          "id": "a-0032",
+          "kind": "RESOLVED",
+          "summary": "Delivery address updated before dispatch",
+          "crmNote": "Address corrected before shipment; dispatch confirmed to the new address. Case closed.",
+          "suggestedResponse": "All set — we updated the address before dispatch. You will get tracking once it ships.",
+          "channel": "X",
+          "direction": "OUTBOUND",
+          "loggedAt": "2026-06-12T03:49:45.472Z",
+          "approvedBy": "Demo Agent",
+          "isSynthetic": true
+        }
+      ],
+      "c-013": [
+        {
+          "id": "a-0036",
+          "kind": "RESOLVED",
+          "summary": "Delivery address updated before dispatch",
+          "crmNote": "Address corrected before shipment; dispatch confirmed to the new address. Case closed.",
+          "suggestedResponse": "All set — we updated the address before dispatch. You will get tracking once it ships.",
+          "channel": "X",
+          "direction": "INBOUND",
+          "loggedAt": "2026-09-20T08:30:04.797Z",
+          "approvedBy": "Demo Agent",
+          "isSynthetic": true
+        },
+        {
+          "id": "a-0035",
+          "kind": "COMMENT",
+          "summary": "Shared feedback about packaging quality",
+          "crmNote": "Customer noted packaging felt flimsy on arrival. No damage reported. Logged for ops review; monitor for repeat complaints.",
+          "suggestedResponse": "Thanks for the feedback — we pass it straight to the packing team. If anything arrived damaged, let us know and we will sort it.",
+          "channel": "X",
+          "direction": "OUTBOUND",
+          "loggedAt": "2026-08-31T06:03:38.437Z",
+          "approvedBy": "Demo Agent",
+          "isSynthetic": true
+        },
+        {
+          "id": "a-0037",
+          "kind": "DM",
+          "summary": "Asked about custom order options and pricing",
+          "crmNote": "Customer interested in a custom variant; pricing and timeline sent. Track preference; no commitment yet.",
+          "suggestedResponse": "Custom options are available! What size and color did you have in mind? We can send a quote today.",
+          "channel": "INSTAGRAM",
+          "direction": "INBOUND",
+          "loggedAt": "2026-08-02T15:42:54.322Z",
+          "approvedBy": "Demo Agent",
+          "isSynthetic": true
+        }
+      ],
+      "c-014": [
+        {
+          "id": "a-0038",
+          "kind": "TICKET",
+          "summary": "Billing question escalated after a first-response gap",
+          "crmNote": "First response was delayed; issue escalated to team lead for callback. Flagged as a follow-up item.",
+          "suggestedResponse": "Thank you for your patience — this has been escalated and someone will reach out shortly.",
+          "channel": "FACEBOOK",
+          "direction": "INBOUND",
+          "loggedAt": "2026-08-30T18:36:23.967Z",
+          "approvedBy": "Demo Agent",
+          "isSynthetic": true
+        },
+        {
+          "id": "a-0040",
+          "kind": "DM",
+          "summary": "Asked about custom order options and pricing",
+          "crmNote": "Customer interested in a custom variant; pricing and timeline sent. Track preference; no commitment yet.",
+          "suggestedResponse": "Custom options are available! What size and color did you have in mind? We can send a quote today.",
+          "channel": "INSTAGRAM",
+          "direction": "INBOUND",
+          "loggedAt": "2026-08-11T13:10:05.752Z",
+          "approvedBy": "Demo Agent",
+          "isSynthetic": true
+        },
+        {
+          "id": "a-0041",
+          "kind": "DM",
+          "summary": "Delivery address updated before dispatch",
+          "crmNote": "Address corrected before shipment; dispatch confirmed to the new address. Case closed.",
+          "suggestedResponse": "All set — we updated the address before dispatch. You will get tracking once it ships.",
+          "channel": "INSTAGRAM",
+          "direction": "INBOUND",
+          "loggedAt": "2026-07-04T00:54:47.277Z",
+          "approvedBy": "Demo Agent",
+          "isSynthetic": true
+        },
+        {
+          "id": "a-0039",
+          "kind": "TICKET",
+          "summary": "Billing question escalated after a first-response gap",
+          "crmNote": "First response was delayed; issue escalated to team lead for callback. Flagged as a follow-up item.",
+          "suggestedResponse": "Thank you for your patience — this has been escalated and someone will reach out shortly.",
+          "channel": "INSTAGRAM",
+          "direction": "OUTBOUND",
+          "loggedAt": "2026-06-24T15:06:52.260Z",
+          "approvedBy": "Demo Agent",
+          "isSynthetic": true
+        }
+      ],
+      "c-015": [
+        {
+          "id": "a-0043",
+          "kind": "TICKET",
+          "summary": "Billing question escalated after a first-response gap",
+          "crmNote": "First response was delayed; issue escalated to team lead for callback. Flagged as a follow-up item.",
+          "suggestedResponse": "Thank you for your patience — this has been escalated and someone will reach out shortly.",
+          "channel": "INSTAGRAM",
+          "direction": "INBOUND",
+          "loggedAt": "2026-08-24T06:32:55.910Z",
+          "approvedBy": "Demo Agent",
+          "isSynthetic": true
+        },
+        {
+          "id": "a-0042",
+          "kind": "POST",
+          "summary": "Shared feedback about packaging quality",
+          "crmNote": "Customer noted packaging felt flimsy on arrival. No damage reported. Logged for ops review; monitor for repeat complaints.",
+          "suggestedResponse": "Thanks for the feedback — we pass it straight to the packing team. If anything arrived damaged, let us know and we will sort it.",
+          "channel": "FACEBOOK",
+          "direction": "INBOUND",
+          "loggedAt": "2026-08-17T02:11:20.501Z",
+          "approvedBy": "Demo Agent",
+          "isSynthetic": true
+        }
+      ],
+      "c-016": [
+        {
+          "id": "a-0046",
+          "kind": "POST",
+          "summary": "Shared feedback about packaging quality",
+          "crmNote": "Customer noted packaging felt flimsy on arrival. No damage reported. Logged for ops review; monitor for repeat complaints.",
+          "suggestedResponse": "Thanks for the feedback — we pass it straight to the packing team. If anything arrived damaged, let us know and we will sort it.",
+          "channel": "FACEBOOK",
+          "direction": "INBOUND",
+          "loggedAt": "2026-09-19T03:12:26.501Z",
+          "approvedBy": "Demo Agent",
+          "isSynthetic": true
+        },
+        {
+          "id": "a-0045",
+          "kind": "DM",
+          "summary": "Asked about custom order options and pricing",
+          "crmNote": "Customer interested in a custom variant; pricing and timeline sent. Track preference; no commitment yet.",
+          "suggestedResponse": "Custom options are available! What size and color did you have in mind? We can send a quote today.",
+          "channel": "X",
+          "direction": "INBOUND",
+          "loggedAt": "2026-08-03T01:48:41.556Z",
+          "approvedBy": "Demo Agent",
+          "isSynthetic": true
+        },
+        {
+          "id": "a-0044",
+          "kind": "COMMENT",
+          "summary": "Asked about custom order options and pricing",
+          "crmNote": "Customer interested in a custom variant; pricing and timeline sent. Track preference; no commitment yet.",
+          "suggestedResponse": "Custom options are available! What size and color did you have in mind? We can send a quote today.",
+          "channel": "FACEBOOK",
+          "direction": "OUTBOUND",
+          "loggedAt": "2026-07-29T04:24:47.075Z",
+          "approvedBy": "Demo Agent",
+          "isSynthetic": true
+        }
+      ],
+      "c-017": [
+        {
+          "id": "a-0047",
+          "kind": "COMMENT",
+          "summary": "Asked about shipping times via X",
+          "crmNote": "Customer asked about order delivery timing on X. No order reference provided yet; follow up for order reference.",
+          "suggestedResponse": "Hi! Happy to check shipping times — can you DM us your order number?",
+          "channel": "X",
+          "direction": "INBOUND",
+          "loggedAt": "2026-08-12T17:45:05.873Z",
+          "approvedBy": "Demo Agent",
+          "isSynthetic": true
+        },
+        {
+          "id": "a-0048",
+          "kind": "COMMENT",
+          "summary": "Asked about shipping times via INSTAGRAM",
+          "crmNote": "Customer asked about order delivery timing on INSTAGRAM. No order reference provided yet; follow up for order reference.",
+          "suggestedResponse": "Hi! We can pull that up right away — could you send your order number?",
+          "channel": "INSTAGRAM",
+          "direction": "INBOUND",
+          "loggedAt": "2026-06-22T05:47:03.415Z",
+          "approvedBy": "Demo Agent",
+          "isSynthetic": true
+        }
+      ],
+      "c-018": [
+        {
+          "id": "a-0051",
+          "kind": "DM",
+          "summary": "Delivery address updated before dispatch",
+          "crmNote": "Address corrected before shipment; dispatch confirmed to the new address. Case closed.",
+          "suggestedResponse": "All set — we updated the address before dispatch. You will get tracking once it ships.",
+          "channel": "FACEBOOK",
+          "direction": "OUTBOUND",
+          "loggedAt": "2026-08-10T05:27:27.126Z",
+          "approvedBy": "Demo Agent",
+          "isSynthetic": true
+        },
+        {
+          "id": "a-0049",
+          "kind": "DM",
+          "summary": "Asked about custom order options and pricing",
+          "crmNote": "Customer interested in a custom variant; pricing and timeline sent. Track preference; no commitment yet.",
+          "suggestedResponse": "Custom options are available! What size and color did you have in mind? We can send a quote today.",
+          "channel": "X",
+          "direction": "INBOUND",
+          "loggedAt": "2026-07-28T03:10:17.541Z",
+          "approvedBy": "Demo Agent",
+          "isSynthetic": true
+        },
+        {
+          "id": "a-0050",
+          "kind": "COMMENT",
+          "summary": "Asked about custom order options and pricing",
+          "crmNote": "Customer interested in a custom variant; pricing and timeline sent. Track preference; no commitment yet.",
+          "suggestedResponse": "Custom options are available! What size and color did you have in mind? We can send a quote today.",
+          "channel": "FACEBOOK",
+          "direction": "OUTBOUND",
+          "loggedAt": "2026-07-06T05:48:43.774Z",
+          "approvedBy": "Demo Agent",
+          "isSynthetic": true
+        }
+      ],
+      "c-019": [
+        {
+          "id": "a-0055",
+          "kind": "TICKET",
+          "summary": "Billing question escalated after a first-response gap",
+          "crmNote": "First response was delayed; issue escalated to team lead for callback. Flagged as a follow-up item.",
+          "suggestedResponse": "Thank you for your patience — this has been escalated and someone will reach out shortly.",
+          "channel": "X",
+          "direction": "OUTBOUND",
+          "loggedAt": "2026-09-11T11:55:51.162Z",
+          "approvedBy": "Demo Agent",
+          "isSynthetic": true
+        },
+        {
+          "id": "a-0052",
+          "kind": "RESOLVED",
+          "summary": "Delivery address updated before dispatch",
+          "crmNote": "Address corrected before shipment; dispatch confirmed to the new address. Case closed.",
+          "suggestedResponse": "All set — we updated the address before dispatch. You will get tracking once it ships.",
+          "channel": "X",
+          "direction": "INBOUND",
+          "loggedAt": "2026-09-10T04:22:29.088Z",
+          "approvedBy": "Demo Agent",
+          "isSynthetic": true
+        },
+        {
+          "id": "a-0054",
+          "kind": "DM",
+          "summary": "Reported missing item from a recent order",
+          "crmNote": "Customer raised a missing-item report. Sought an order reference to verify fulfillment; mark for verification and possible reship.",
+          "suggestedResponse": "Sorry about that! Please share your order number so we can verify and get the item out to you.",
+          "channel": "INSTAGRAM",
+          "direction": "OUTBOUND",
+          "loggedAt": "2026-08-22T15:41:10.352Z",
+          "approvedBy": "Demo Agent",
+          "isSynthetic": true
+        },
+        {
+          "id": "a-0053",
+          "kind": "TICKET",
+          "summary": "Reported missing item from a recent order",
+          "crmNote": "Customer raised a missing-item report. Sought an order reference to verify fulfillment; mark for verification and possible reship.",
+          "suggestedResponse": "Sorry about that! Please share your order number so we can verify and get the item out to you.",
+          "channel": "X",
+          "direction": "INBOUND",
+          "loggedAt": "2026-07-28T19:57:00.963Z",
+          "approvedBy": "Demo Agent",
+          "isSynthetic": true
+        }
+      ],
+      "c-020": [
+        {
+          "id": "a-0056",
+          "kind": "COMMENT",
+          "summary": "Shared feedback about packaging quality",
+          "crmNote": "Customer noted packaging felt flimsy on arrival. No damage reported. Logged for ops review; monitor for repeat complaints.",
+          "suggestedResponse": "Thanks for the feedback — we pass it straight to the packing team. If anything arrived damaged, let us know and we will sort it.",
+          "channel": "FACEBOOK",
+          "direction": "INBOUND",
+          "loggedAt": "2026-07-15T22:37:48.556Z",
+          "approvedBy": "Demo Agent",
+          "isSynthetic": true
+        },
+        {
+          "id": "a-0057",
+          "kind": "ESCALATED",
+          "summary": "Billing question escalated after a first-response gap",
+          "crmNote": "First response was delayed; issue escalated to team lead for callback. Flagged as a follow-up item.",
+          "suggestedResponse": "Thank you for your patience — this has been escalated and someone will reach out shortly.",
+          "channel": "INSTAGRAM",
+          "direction": "INBOUND",
+          "loggedAt": "2026-06-26T12:12:24.800Z",
+          "approvedBy": "Demo Agent",
+          "isSynthetic": true
+        }
+      ],
+      "c-021": [
+        {
+          "id": "a-0059",
+          "kind": "COMMENT",
+          "summary": "Asked about custom order options and pricing",
+          "crmNote": "Customer interested in a custom variant; pricing and timeline sent. Track preference; no commitment yet.",
+          "suggestedResponse": "Custom options are available! What size and color did you have in mind? We can send a quote today.",
+          "channel": "FACEBOOK",
+          "direction": "INBOUND",
+          "loggedAt": "2026-09-03T17:21:07.399Z",
+          "approvedBy": "Demo Agent",
+          "isSynthetic": true
+        },
+        {
+          "id": "a-0061",
+          "kind": "ESCALATED",
+          "summary": "Billing question escalated after a first-response gap",
+          "crmNote": "First response was delayed; issue escalated to team lead for callback. Flagged as a follow-up item.",
+          "suggestedResponse": "Thank you for your patience — this has been escalated and someone will reach out shortly.",
+          "channel": "FACEBOOK",
+          "direction": "INBOUND",
+          "loggedAt": "2026-08-01T06:17:31.346Z",
+          "approvedBy": "Demo Agent",
+          "isSynthetic": true
+        },
+        {
+          "id": "a-0058",
+          "kind": "TICKET",
+          "summary": "Reported missing item from a recent order",
+          "crmNote": "Customer raised a missing-item report. Sought an order reference to verify fulfillment; mark for verification and possible reship.",
+          "suggestedResponse": "Sorry about that! Please share your order number so we can verify and get the item out to you.",
+          "channel": "FACEBOOK",
+          "direction": "INBOUND",
+          "loggedAt": "2026-06-29T05:14:57.541Z",
+          "approvedBy": "Demo Agent",
+          "isSynthetic": true
+        },
+        {
+          "id": "a-0060",
+          "kind": "DM",
+          "summary": "Delivery address updated before dispatch",
+          "crmNote": "Address corrected before shipment; dispatch confirmed to the new address. Case closed.",
+          "suggestedResponse": "All set — we updated the address before dispatch. You will get tracking once it ships.",
+          "channel": "FACEBOOK",
+          "direction": "INBOUND",
+          "loggedAt": "2026-06-23T04:36:10.096Z",
+          "approvedBy": "Demo Agent",
+          "isSynthetic": true
+        }
+      ],
+      "c-022": [
+        {
+          "id": "a-0062",
+          "kind": "DM",
+          "summary": "Asked about shipping times via X",
+          "crmNote": "Customer asked about order delivery timing on X. No order reference provided yet; follow up for order reference.",
+          "suggestedResponse": "Hi! Happy to check shipping times — can you DM us your order number?",
+          "channel": "X",
+          "direction": "OUTBOUND",
+          "loggedAt": "2026-07-07T16:06:55.073Z",
+          "approvedBy": "Demo Agent",
+          "isSynthetic": true
+        },
+        {
+          "id": "a-0066",
+          "kind": "TICKET",
+          "summary": "Reported missing item from a recent order",
+          "crmNote": "Customer raised a missing-item report. Sought an order reference to verify fulfillment; mark for verification and possible reship.",
+          "suggestedResponse": "Sorry about that! Please share your order number so we can verify and get the item out to you.",
+          "channel": "X",
+          "direction": "INBOUND",
+          "loggedAt": "2026-07-02T21:59:17.364Z",
+          "approvedBy": "Demo Agent",
+          "isSynthetic": true
+        },
+        {
+          "id": "a-0064",
+          "kind": "TICKET",
+          "summary": "Billing question escalated after a first-response gap",
+          "crmNote": "First response was delayed; issue escalated to team lead for callback. Flagged as a follow-up item.",
+          "suggestedResponse": "Thank you for your patience — this has been escalated and someone will reach out shortly.",
+          "channel": "X",
+          "direction": "OUTBOUND",
+          "loggedAt": "2026-06-28T06:13:41.865Z",
+          "approvedBy": "Demo Agent",
+          "isSynthetic": true
+        },
+        {
+          "id": "a-0065",
+          "kind": "DM",
+          "summary": "Asked about custom order options and pricing",
+          "crmNote": "Customer interested in a custom variant; pricing and timeline sent. Track preference; no commitment yet.",
+          "suggestedResponse": "Custom options are available! What size and color did you have in mind? We can send a quote today.",
+          "channel": "X",
+          "direction": "OUTBOUND",
+          "loggedAt": "2026-06-27T03:38:51.358Z",
+          "approvedBy": "Demo Agent",
+          "isSynthetic": true
+        },
+        {
+          "id": "a-0063",
+          "kind": "DM",
+          "summary": "Reported missing item from a recent order",
+          "crmNote": "Customer raised a missing-item report. Sought an order reference to verify fulfillment; mark for verification and possible reship.",
+          "suggestedResponse": "Sorry about that! Please share your order number so we can verify and get the item out to you.",
+          "channel": "X",
+          "direction": "OUTBOUND",
+          "loggedAt": "2026-06-09T08:18:13.944Z",
+          "approvedBy": "Demo Agent",
+          "isSynthetic": true
+        }
+      ],
+      "c-023": [
+        {
+          "id": "a-0070",
+          "kind": "COMMENT",
+          "summary": "Shared feedback about packaging quality",
+          "crmNote": "Customer noted packaging felt flimsy on arrival. No damage reported. Logged for ops review; monitor for repeat complaints.",
+          "suggestedResponse": "Thanks for the feedback — we pass it straight to the packing team. If anything arrived damaged, let us know and we will sort it.",
+          "channel": "INSTAGRAM",
+          "direction": "OUTBOUND",
+          "loggedAt": "2026-09-02T15:01:51.745Z",
+          "approvedBy": "Demo Agent",
+          "isSynthetic": true
+        },
+        {
+          "id": "a-0068",
+          "kind": "POST",
+          "summary": "Shared feedback about packaging quality",
+          "crmNote": "Customer noted packaging felt flimsy on arrival. No damage reported. Logged for ops review; monitor for repeat complaints.",
+          "suggestedResponse": "Thanks for the feedback — we pass it straight to the packing team. If anything arrived damaged, let us know and we will sort it.",
+          "channel": "FACEBOOK",
+          "direction": "OUTBOUND",
+          "loggedAt": "2026-08-22T17:30:47.020Z",
+          "approvedBy": "Demo Agent",
+          "isSynthetic": true
+        },
+        {
+          "id": "a-0071",
+          "kind": "TICKET",
+          "summary": "Billing question escalated after a first-response gap",
+          "crmNote": "First response was delayed; issue escalated to team lead for callback. Flagged as a follow-up item.",
+          "suggestedResponse": "Thank you for your patience — this has been escalated and someone will reach out shortly.",
+          "channel": "X",
+          "direction": "INBOUND",
+          "loggedAt": "2026-08-18T22:37:21.462Z",
+          "approvedBy": "Demo Agent",
+          "isSynthetic": true
+        },
+        {
+          "id": "a-0067",
+          "kind": "TICKET",
+          "summary": "Reported missing item from a recent order",
+          "crmNote": "Customer raised a missing-item report. Sought an order reference to verify fulfillment; mark for verification and possible reship.",
+          "suggestedResponse": "Sorry about that! Please share your order number so we can verify and get the item out to you.",
+          "channel": "X",
+          "direction": "INBOUND",
+          "loggedAt": "2026-08-04T23:33:19.042Z",
+          "approvedBy": "Demo Agent",
+          "isSynthetic": true
+        },
+        {
+          "id": "a-0069",
+          "kind": "COMMENT",
+          "summary": "Shared feedback about packaging quality",
+          "crmNote": "Customer noted packaging felt flimsy on arrival. No damage reported. Logged for ops review; monitor for repeat complaints.",
+          "suggestedResponse": "Thanks for the feedback — we pass it straight to the packing team. If anything arrived damaged, let us know and we will sort it.",
+          "channel": "INSTAGRAM",
+          "direction": "INBOUND",
+          "loggedAt": "2026-07-23T10:28:19.400Z",
+          "approvedBy": "Demo Agent",
+          "isSynthetic": true
+        }
+      ],
+      "c-024": [
+        {
+          "id": "a-0072",
+          "kind": "TICKET",
+          "summary": "Reported missing item from a recent order",
+          "crmNote": "Customer raised a missing-item report. Sought an order reference to verify fulfillment; mark for verification and possible reship.",
+          "suggestedResponse": "Sorry about that! Please share your order number so we can verify and get the item out to you.",
+          "channel": "INSTAGRAM",
+          "direction": "OUTBOUND",
+          "loggedAt": "2026-09-19T07:47:44.635Z",
+          "approvedBy": "Demo Agent",
+          "isSynthetic": true
+        },
+        {
+          "id": "a-0076",
+          "kind": "COMMENT",
+          "summary": "Asked about shipping times via X",
+          "crmNote": "Customer asked about order delivery timing on X. No order reference provided yet; follow up for order reference.",
+          "suggestedResponse": "Hi! Happy to check shipping times — can you DM us your order number?",
+          "channel": "X",
+          "direction": "OUTBOUND",
+          "loggedAt": "2026-08-07T16:52:32.608Z",
+          "approvedBy": "Demo Agent",
+          "isSynthetic": true
+        },
+        {
+          "id": "a-0074",
+          "kind": "TICKET",
+          "summary": "Billing question escalated after a first-response gap",
+          "crmNote": "First response was delayed; issue escalated to team lead for callback. Flagged as a follow-up item.",
+          "suggestedResponse": "Thank you for your patience — this has been escalated and someone will reach out shortly.",
+          "channel": "FACEBOOK",
+          "direction": "INBOUND",
+          "loggedAt": "2026-07-31T22:39:13.265Z",
+          "approvedBy": "Demo Agent",
+          "isSynthetic": true
+        },
+        {
+          "id": "a-0073",
+          "kind": "COMMENT",
+          "summary": "Shared feedback about packaging quality",
+          "crmNote": "Customer noted packaging felt flimsy on arrival. No damage reported. Logged for ops review; monitor for repeat complaints.",
+          "suggestedResponse": "Thanks for the feedback — we pass it straight to the packing team. If anything arrived damaged, let us know and we will sort it.",
+          "channel": "FACEBOOK",
+          "direction": "INBOUND",
+          "loggedAt": "2026-07-16T12:49:26.069Z",
+          "approvedBy": "Demo Agent",
+          "isSynthetic": true
+        },
+        {
+          "id": "a-0075",
+          "kind": "DM",
+          "summary": "Asked about custom order options and pricing",
+          "crmNote": "Customer interested in a custom variant; pricing and timeline sent. Track preference; no commitment yet.",
+          "suggestedResponse": "Custom options are available! What size and color did you have in mind? We can send a quote today.",
+          "channel": "FACEBOOK",
+          "direction": "OUTBOUND",
+          "loggedAt": "2026-06-29T13:56:30.409Z",
+          "approvedBy": "Demo Agent",
+          "isSynthetic": true
+        }
+      ]
+    },
+    "agents": [
+      {
+        "id": "ag-001",
+        "name": "Demo Agent",
+        "role": "Support Agent",
+        "isSynthetic": true
+      },
+      {
+        "id": "ag-002",
+        "name": "Robin Vale",
+        "role": "Team Lead",
+        "isSynthetic": true
+      },
+      {
+        "id": "ag-003",
+        "name": "Tess Moran",
+        "role": "Support Agent",
+        "isSynthetic": true
+      }
+    ]
+  }
+}
