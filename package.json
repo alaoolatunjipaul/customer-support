@@ -5,7 +5,7 @@
   "type": "module",
   "description": "Social-media customer-contact copilot MVP. Synthetic data only. AI deferred to a later phase.",
   "engines": {
-    "node": ">=20"
+    "node": "22.x"
   },
   "scripts": {
     "dev": "concurrently -k -n api,ui -c blue,green \"npm:dev:server\" \"npm:dev:ui\"",
