@@ -50,7 +50,8 @@ export default function Sidebar({ isOpen, onClose }: SidebarProps) {
           <div className="sidebar__agent-text">
             <p className="sidebar__agent-name">Demo Agent</p>
             <p className="sidebar__agent-role">Support agent · synthetic session</p>
-            <p className="sidebar__env">Demo environment • Synthetic data</p>
+            <p className="sidebar__env">Demo Environment • Synthetic Data • No CRM Connection</p>
+            <p className="sidebar__note">Ephemeral demo state — persistent storage required for production.</p>
           </div>
         </div>
       </aside>

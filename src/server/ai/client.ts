@@ -15,7 +15,9 @@ export function generateDraftDrive(
 ): DraftOutput {
   if (config.ai.mode !== 'mock') {
     throw new HttpError(
-      'No real LLM provider is wired into this build; the app runs in mock-AI mode only.',
+      config.ai.keyIgnored
+        ? 'AI_API_KEY is present but this build is mock-only, so the key is ignored and no external model is called. Remove AI_API_KEY to re-enable mock generation.'
+        : 'No real LLM provider is wired into this build; the app runs in mock-AI mode only.',
       501,
       'AI_UNAVAILABLE',
     );

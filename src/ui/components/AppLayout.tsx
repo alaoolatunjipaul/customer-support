@@ -25,8 +25,12 @@ export default function AppLayout() {
           </button>
           <div className="topbar__title">
             <span className="topbar__eyebrow">AI-assisted customer support — human reviewed</span>
-            <span className="topbar__status" role="status" title="This demo never connects to real systems or real data">
-              Demo environment • Synthetic data
+            <span
+              className="topbar__status"
+              role="status"
+              title="This demo never connects to real systems or real data. Ephemeral demo state — persistent storage required for production."
+            >
+              Demo Environment • Synthetic Data • No CRM Connection
             </span>
           </div>
           <div className="topbar__right">

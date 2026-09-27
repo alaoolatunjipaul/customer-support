@@ -236,7 +236,8 @@ export const HealthSchema = z.object({
   }),
   ai: z.object({
     configured: z.boolean(),
-    mode: z.string(),
+    keyIgnored: z.boolean(),
+    mode: z.enum(['mock', 'blocked']),
   }),
 });
 export type Health = z.infer<typeof HealthSchema>;

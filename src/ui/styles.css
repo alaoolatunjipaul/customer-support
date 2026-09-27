@@ -283,6 +283,13 @@ select {
   box-shadow: 0 0 0 3px #e8f5ec;
 }
 
+.sidebar__note {
+  margin: 0.3rem 0 0;
+  font-size: 0.68rem;
+  line-height: 1.35;
+  color: var(--warning);
+}
+
 .sidebar-backdrop {
   display: none;
 }

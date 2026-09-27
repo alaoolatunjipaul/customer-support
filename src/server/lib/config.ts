@@ -13,13 +13,27 @@ if (!parsed.success) {
   process.exit(1);
 }
 
+const apiKeyPresent = Boolean(parsed.data.AI_API_KEY);
+
+// Mock-only build. An AI_API_KEY in the environment is never used: it fails closed
+// instead of silently switching the app onto a real provider. The key is reported so
+// the misconfiguration is visible on /api/health and in the logs.
+const aiMode: 'mock' | 'blocked' = apiKeyPresent ? 'blocked' : 'mock';
+
+if (apiKeyPresent) {
+  console.warn(
+    '[config] AI_API_KEY is set but this build is mock-only. The key is IGNORED, no external AI call will be made, and AI generation will fail closed with 501 AI_UNAVAILABLE. Remove AI_API_KEY from the environment.',
+  );
+}
+
 export const config = {
   port: parsed.data.PORT,
   env: parsed.data.NODE_ENV,
   isProduction: parsed.data.NODE_ENV === 'production',
   ai: {
     provider: parsed.data.AI_PROVIDER,
-    configured: Boolean(parsed.data.AI_API_KEY),
-    mode: parsed.data.AI_API_KEY ? 'external' : 'mock',
+    configured: apiKeyPresent,
+    keyIgnored: apiKeyPresent,
+    mode: aiMode,
   },
 };

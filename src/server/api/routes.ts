@@ -44,7 +44,7 @@ apiRouter.get('/health', (_req, res) => {
     service: 'customer-support-copilot',
     version: '0.1.0',
     data: c,
-    ai: { configured: config.ai.configured, mode: config.ai.mode },
+    ai: { configured: config.ai.configured, keyIgnored: config.ai.keyIgnored, mode: config.ai.mode },
   };
   res.json(HealthSchema.parse(health));
 });
