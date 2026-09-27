@@ -7,3 +7,5 @@ src/ui/dist/
 .env.*
 server/.env
 .DS_Store
+.vercel
+.env*
