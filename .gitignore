@@ -1,6 +1,6 @@
 node_modules/
 dist/
-src/ui/dist/
+public/
 *.tsbuildinfo
 *.log
 .env

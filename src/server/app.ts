@@ -5,7 +5,7 @@ import { fileURLToPath } from 'node:url';
 import { apiRouter } from './api/routes.js';
 import { errorHandler, requestLogger } from './lib/middleware.js';
 
-const staticDir = join(dirname(fileURLToPath(import.meta.url)), '../ui/dist');
+const staticDir = join(dirname(fileURLToPath(import.meta.url)), '../../public');
 
 const isServerlessRuntime = Boolean(process.env.VERCEL || process.env.AWS_LAMBDA_FUNCTION_NAME);
 const serveUi = !isServerlessRuntime && existsSync(staticDir);

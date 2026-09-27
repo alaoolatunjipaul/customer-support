@@ -5,7 +5,7 @@ import reactHooks from 'eslint-plugin-react-hooks';
 import reactRefresh from 'eslint-plugin-react-refresh';
 
 export default tseslint.config(
-  { ignores: ['dist', 'src/ui/dist', 'node_modules', 'src/server/data/seed/seed-data.json'] },
+  { ignores: ['dist', 'public', 'node_modules', 'src/server/data/seed/seed-data.json'] },
   js.configs.recommended,
   ...tseslint.configs.recommended,
   {
