@@ -8,5 +8,9 @@
     "api/[...path].ts": {
       "maxDuration": 30
     }
-  }
+  },
+  "routes": [
+    { "handle": "filesystem" },
+    { "src": "/(.*)", "dest": "/index.html" }
+  ]
 }
